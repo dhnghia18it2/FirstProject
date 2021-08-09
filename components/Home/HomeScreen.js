@@ -67,7 +67,7 @@ export default function HomeScreen({navigation}) {
                 </View>
                 <View style={styles.toolbar}>
                         <View style={styles.searchbarContainer}>
-                            <FontAwesome style={{marginRight:10,}} name="search" size={16} color="#4A494C" />
+                            <FontAwesome style={{marginRight:10,}} name="search" size={15} color="#4A494C" />
                             <TextInput
                                 style={styles.searchbar}
                                 placeholder="Search.."
